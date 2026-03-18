@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Agente de Diagnóstico de Funil — Marketing Educação Premium",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
