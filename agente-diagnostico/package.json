@@ -1,8 +1,0 @@
-{
-  "name": "agente-diagnostico",
-  "version": "1.0.0",
-  "description": "Agente de Diagnóstico de Funil — Marketing Educação Premium",
-  "engines": {
-    "node": "24.x"
-  }
-}
